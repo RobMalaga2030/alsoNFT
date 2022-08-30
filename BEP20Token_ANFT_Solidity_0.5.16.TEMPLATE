@@ -4,7 +4,7 @@ pragma solidity 0.5.16;
 
 /*
 * @author Linards Liepins <hx@inbox.lv>
-* @notice AlsoNFT Smart Contract for BEP20 network
+* @notice AlsoNFT (v1) Smart Contract for BEP20 network
 */
 interface IBEP20 {
   /**
